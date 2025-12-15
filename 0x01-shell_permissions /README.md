@@ -1,3 +1,3 @@
-# 0x01-shell_permissions
-This project is about learning basic linux shell commands.
-Author: Roheemot
+# 0x01. Shell, permissions
+
+This project contains scripts that manage Linux users, groups, and file permissions.
